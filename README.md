@@ -12,7 +12,7 @@ composer require sumaerjolly/oauth2-phoneburner
 
 ### Usage
 
-Usage is the same as The League's OAuth client, using `\Sumaerjolly\OAuth2\Client\Provider\Phoneburner` as the provider.
+Usage is the same as The League's OAuth client, using `\SumaerJolly\OAuth2\Client\Provider\Phoneburner` as the provider.
 
 ### Authorization Code Flow
 
